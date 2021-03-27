@@ -1,0 +1,82 @@
+[
+    {
+        "playerName": "Sophie Devine (c)",
+        "runs": "0",
+        "ballsPlayed": "2",
+        "fours": "0",
+        "sixes": "0",
+        "strikeRate": "0.00"
+    },
+    {
+        "playerName": "Hayley Jensen",
+        "runs": "0",
+        "ballsPlayed": "1",
+        "fours": "0",
+        "sixes": "0",
+        "strikeRate": "0.00"
+    },
+    {
+        "playerName": "Amy Satterthwaite",
+        "runs": "25",
+        "ballsPlayed": "26",
+        "fours": "4",
+        "sixes": "0",
+        "strikeRate": "96.15"
+    },
+    {
+        "playerName": "Amelia Kerr",
+        "runs": "18",
+        "ballsPlayed": "19",
+        "fours": "1",
+        "sixes": "0",
+        "strikeRate": "94.74"
+    },
+    {
+        "playerName": "Katey Martin (wk)",
+        "runs": "3",
+        "ballsPlayed": "4",
+        "fours": "0",
+        "sixes": "0",
+        "strikeRate": "75.00"
+    },
+    {
+        "playerName": "Brooke Halliday",
+        "runs": "7",
+        "ballsPlayed": "8",
+        "fours": "1",
+        "sixes": "0",
+        "strikeRate": "87.50"
+    },
+    {
+        "playerName": "Maddy Green",
+        "runs": "20",
+        "ballsPlayed": "23",
+        "fours": "1",
+        "sixes": "0",
+        "strikeRate": "86.96"
+    },
+    {
+        "playerName": "Kate Ebrahim",
+        "runs": "0",
+        "ballsPlayed": "2",
+        "fours": "0",
+        "sixes": "0",
+        "strikeRate": "0.00"
+    },
+    {
+        "playerName": "Leigh Kasperek",
+        "runs": "0",
+        "ballsPlayed": "1",
+        "fours": "0",
+        "sixes": "0",
+        "strikeRate": "0.00"
+    },
+    {
+        "playerName": "Jess Kerr",
+        "runs": "3",
+        "ballsPlayed": "7",
+        "fours": "0",
+        "sixes": "0",
+        "strikeRate": "42.86"
+    }
+]
